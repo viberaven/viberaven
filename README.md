@@ -2,6 +2,9 @@
 
 **10% developer, 90% manifestation**
 
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google%20gemini&logoColor=white)
+
 ## Projects
 
 | | Project | Description |
